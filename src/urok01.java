@@ -10,7 +10,8 @@ public class urok01 {
 
         System.out.println("---");
         System.out.println(888);
-        System.out.println("привет");
+        System.out.println("привет1");
+        System.out.println("привет2");
 
     }
 }
